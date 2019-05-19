@@ -1,0 +1,6 @@
+{
+    "/assets/i18n/en-lang.json": {
+      "target": "http://localhost:4200/assets/i18n/en-lang.json",
+      "secure": false
+    }
+  }
